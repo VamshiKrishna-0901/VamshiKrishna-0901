@@ -1,6 +1,6 @@
-- You can call me Mr.Edith  <br>
-- I'm proficient in Java.  <br>
-- I'll be uploading daily potd's of gfg. Feel free to check out if you are feeling hard to solve it.  <br>
+
+- Proficient in Java.  <br>
+- Daily uploading potd's of gfg. Feel free to check out if you are feeling hard to solve it.  <br>
 - Let's maintain consistency on whatever we are doing.
 
 <!---
